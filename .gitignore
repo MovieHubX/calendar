@@ -1,0 +1,3 @@
+# .gitignore content
+venv/
+*.pyc
