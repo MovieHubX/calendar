@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadConfirmedBy</key>
-	<string>khoindvn.eu.org</string>
+	<string>made by eyus00</string>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -34,15 +34,13 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>Adblock Configuration</string>
+	<string>Adblock Profile</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.profile.adblock</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<string>com.eyus00.adblock.profile</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>khoindvn.eu.org</string>
+	<string>eyus00-adblock-uuid</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
