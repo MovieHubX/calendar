@@ -24,7 +24,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Adblock</string>
 			<key>PayloadIdentifier</key>
-			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
+			<string>com.eyus00.adblock.dnssettings</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -35,6 +35,8 @@
 	</array>
 	<key>PayloadDisplayName</key>
 	<string>Adblock Profile</string>
+	<key>PayloadDescription</key>
+	<string>This profile configures DNS settings for ad blocking. Visit https://github.com/eyus00 for more information.</string>
 	<key>PayloadIdentifier</key>
 	<string>com.eyus00.adblock.profile</string>
 	<key>PayloadType</key>
