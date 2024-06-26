@@ -2,46 +2,48 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>PayloadConfirmedBy</key>
-	<string>made by eyus00</string>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
-			</dict>
-			<key>OnDemandRules</key>
-			<array>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-				</dict>
-			</array>
-			<key>PayloadDisplayName</key>
-			<string>Adblock</string>
-			<key>PayloadIdentifier</key>
-			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>vevrl9air2.cloudflare-gateway.com</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>PayloadDisplayName</key>
-	<string>Adblock Profile</string>
-	<key>PayloadIdentifier</key>
-	<string>com.eyus00.adblock.profile</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>eyus00-adblock-uuid</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
+    <key>PayloadConfirmedBy</key>
+    <string>made by eyus00</string>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
+            </dict>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
+            <key>PayloadDisplayName</key>
+            <string>Adblock</string>
+            <key>PayloadIdentifier</key>
+            <string>com.eyus00.adblock.dnssettings</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>vevrl9air2.cloudflare-gateway.com</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Adblock Profile by eyus00</string>
+    <key>PayloadDescription</key>
+    <string>Ad blocker by eyus00 | https://github.com/eyus00</string>
+    <key>PayloadIdentifier</key>
+    <string>com.eyus00.adblock.profile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>eyus00-adblock-uuid</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
 </dict>
 </plist>
