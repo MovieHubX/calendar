@@ -34,7 +34,9 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>AdBlocker | eyus00 </string>
+    <string>AdBlocker </string>
+    <key>PayloadOrganization</key>
+	  <string>eyus00</string>
     <key>PayloadDescription</key>
     <string>https://github.com/eyus00</string>
     <key>PayloadIdentifier</key>
